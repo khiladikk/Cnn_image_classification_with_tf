@@ -21,4 +21,4 @@ In this repository we will learn:
 
 - In the "**Part1**" I have explained a general overview of cnn and it's working architecture. In the "**Part2**" I have done a image classification using tensorflow on cifar10 image dataset.
 
-``` Note: Most of the images used in this project are made myself and also I mentioned the source of the Pics which I didn't make. ```
+``` Note: Most of the images I used in this project are created by myself and also I mentioned the source of the Pics which I didn't make. ```
